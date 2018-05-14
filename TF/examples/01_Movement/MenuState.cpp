@@ -2,7 +2,7 @@
  *  MenuState.cpp
  *  Example "menu" state
  *
- *  Created by Marcelo Cohen on 04/11.
+ *  Created by Caetano, Pedro, Rodrigo on 05/18.
  *  Copyright 2011 PUCRS. All rights reserved.
  *
  */

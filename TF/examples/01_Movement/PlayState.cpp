@@ -2,7 +2,7 @@
  *  PlayState.cpp
  *  Normal "play" state
  *
- *  Created by Marcelo Cohen on 08/13.
+ *  Created by Caetano, Pedro, Rodrigo on 05/18.
  *  Copyright 2013 PUCRS. All rights reserved.
  *
  */
